@@ -12,7 +12,7 @@ import request_generator as rg
 
 def banner():
     """prints information about tool"""
-    print("JackHammer v0.1 by H4RD-CODER\n")
+    print("JackHammer v0.1 by NegativeZ3r0\n")
 
 
 def main(
